@@ -1,3 +1,3 @@
-live @ :: https://rotractpu.vercel.app/
+live @ :: https://rotract.nabinkdl.com/
 
   <img src="./asset/webshot.png">
