@@ -1,3 +1,3 @@
 live @ :: https://rotract.nabinkdl.com/
 
-  <img src="./asset/webshot.png">
+  <img src="./asset/webshot2.png">
