@@ -8,8 +8,8 @@ This project, hosted at [rotract.nabinkdl.com](https://rotract.nabinkdl.com), co
 
 ### JavaScript Usage
 
-- **Load More Images**: Load additional images of board members.
-- **Image Slider**: Implement an image slider for board member photos.
+- **Load More Button**: Load additional images of board members.
+- **Image Slider**: Implement an image slider.
 - **Data Fetching**: Use JavaScript to fetch and process data for the email collection and stored in a Google Sheets spreadsheet.
 ##
   <img src="./asset/image/webshot.png">
