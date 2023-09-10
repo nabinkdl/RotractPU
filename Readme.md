@@ -4,7 +4,7 @@ This project, hosted at [rotract.nabinkdl.com](https://rotract.nabinkdl.com), co
 ## Features
 
 - **Email and feedback Collection**: Users can submit their emails addresses and feedbacks.
-- **Google Sheets Integration**: Collected emails are stored in a Google Sheets spreadsheet.
+- **Google Sheets Integration**: Collected emails are stored in a Google Sheets [spreadsheet](https://docs.google.com/spreadsheets/d/1KLNMTwqIuj4EkkGD7EmlXxoUUnPZFPCgjGuKj3rXHhg/edit?usp=sharing).
 
 ### JavaScript Usage
 
