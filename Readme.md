@@ -1,5 +1,5 @@
 
-This project, hosted at [rotract.nabinkdl.com](https://rotract.nabinkdl.com), collects email addresses and feedbacks without using a database:
+This project, hosted at [rotract.nabinkdl.com](https://rotract.nabinkdl.com), collects email addresses and feedbacks without using a database, It leverages Tailwind CSS for design and incorporates JavaScript for additional functionality:
 
 ## Features
 
