@@ -10,8 +10,8 @@ This project, hosted at [rotract.nabinkdl.com](https://rotract.nabinkdl.com), co
 
 - **Load More Button**: Load additional images of board members.
 - **Image Slider**: Implement an image slider.
-- **Submission and Validation**: Handles form submissions, employs a Regex to validate email input.
-- **Data Fetching**: Use JavaScript to fetch and process data for the email collection and stored in a Google Sheets spreadsheet.
+- **Handling and Validation**: Handles form submissions, employs a Regex to validate email input.
+- **Data Submission**: Use Google Apps Script for process data for the email collection and stored in a Google Sheets spreadsheet.
 ##
   <img src="./asset/image/webshot.png">
 
